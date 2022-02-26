@@ -51,4 +51,4 @@
 
 Kontakt dla aktualizacji informacji / Контакт для оновлення інформації : \[[FB](https://www.facebook.com/ihormykhalevych/posts/5053154108125050)\] \[[Twitter](https://twitter.com/anygizer)\] \[[Instagram](https://www.instagram.com/imy_go)\]
 
-Aktualizacja / Оновлення -- 2022-02-26 20:47
+Aktualizacja / Оновлення -- 2022-02-26 22:05
