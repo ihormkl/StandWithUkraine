@@ -1,2 +1,2 @@
 # StandWithUkraine
-Help points coordination map
+Help points coordination list
