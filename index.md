@@ -1,16 +1,15 @@
 ## #StandWithUkraine
 
+\[PL\] Kontakty pomocy tym którzy ucierpiali od wojny w Ukrainie. \
 \[UA\] Контакти пунктів допомоги потерпілим у війні в Україні.
-
-\[PL\] Kontakty pomocy tym którzy ucierpiali od wojny w Ukrainie.
 
 # Polska / Польща
 
 ## gov.pl
 
-- [INFORMACJE DLA OBYWATELI UKRAINY / ІНФОРМАЦІЯ ДЛЯ ГРОМАДЯН УКРАЇНИ](https://www.gov.pl/web/udsc/ukraina) \[WWW\]
-  > oficjalna urzędowa strona Polski dla pomocy ukraińcom \
-  > офіційна урядова сторінка Польщі для допомоги українцям
+- \[WWW\] [INFORMACJE DLA OBYWATELI UKRAINY / ІНФОРМАЦІЯ ДЛЯ ГРОМАДЯН УКРАЇНИ](https://www.gov.pl/web/udsc/ukraina)
+  > \[PL\] Oficjalna urzędowa strona Polski dla pomocy ukraińcom. \
+  > \[UA\] Офіційна урядова сторінка Польщі для допомоги українцям.
 
 ## Zbiórki i akcje pomocowe / Збірки і акції допомоги
 
@@ -50,6 +49,6 @@
 
 # Obecna strona / Наявна сторінка
 
-Контакт для оновлення інформації / Kontakt dla aktualizacji informacji: \[[FB](https://www.facebook.com/ihormykhalevych/posts/5053154108125050)\] \[[Twitter](https://twitter.com/anygizer)\] \[[Instagram](https://www.instagram.com/imy_go)\]
+Kontakt dla aktualizacji informacji / Контакт для оновлення інформації : \[[FB](https://www.facebook.com/ihormykhalevych/posts/5053154108125050)\] \[[Twitter](https://twitter.com/anygizer)\] \[[Instagram](https://www.instagram.com/imy_go)\]
 
 Aktualizacja / Оновлення -- 2022-02-26 20:47
