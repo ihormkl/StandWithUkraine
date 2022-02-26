@@ -34,4 +34,4 @@
   > \[PL\] Grupa mająca na celu połączenie potrzebujących schronienia Ukraińców z osobami, które mogą im udzielić pomocy, w postaci choćby czasowego zapewnienia kawałka dachu nad głową. \
   > \[UA\] Група, котра має на меті поєднання осіб з України, котрі потребують допомоги, та тих, хто може її надати, у вигляді хоча б тимчасового прихистку.
 
-Aktualizacja / Оновлення -- 2022-02-26 17:18
+Aktualizacja / Оновлення -- 2022-02-26 17:31
