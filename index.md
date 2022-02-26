@@ -6,7 +6,7 @@
 
 # Polska / Польща
 
-- Ukraiński Dom w Warszawie / Український дім у Варшаві [WWW](https://ukrainskidom.pl) [FB](https://www.facebook.com/UkrainskiDom)
+- Ukraiński Dom w Warszawie / Український дім у Варшаві \[[WWW](https://ukrainskidom.pl)\] \[[FB](https://www.facebook.com/UkrainskiDom)\]
   > \[PL\] Szeroka informacja dotycząca pomocy Ukrainie i Ukraińcom \
   > Włącznie z ankietami zgłoszenia zapotrzebowania oraz propozycji mieszkań i wolontariatu. \
   > \[UA\] Широка інформація про допомогу Україні
