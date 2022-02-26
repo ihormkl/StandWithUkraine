@@ -1,6 +1,10 @@
 ## #StandWithUkraine
 
-Контакти пунктів допомоги потерпілим у війні в Україні.
+\[UA\] Контакти пунктів допомоги потерпілим у війні в Україні.
+
+\[PL\] Kontakty pomocy tym którzy ucierpiali od wojny w Ukrainie.
+
+# Polska / Польща
 
 - \[WWW\] [Український дім / Ukraiński Dom](https://uk.ukrainskidom.pl)
   > \[UA\] анкети зголошення потреби і пропозиції житла і волонтерської допомоги / ankiety zgłoszenia zapotrzebowania oraz propozycji mieszkań i wolontariatu \
