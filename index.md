@@ -1,7 +1,13 @@
 ## #StandWithUkraine
 
-Пункти допомоги потерпілим у війні в Україні.
+Контакти пунктів допомоги потерпілим у війні в Україні.
 
-### Варшава / Warszawa
-
-- [Український дім / Ukraiński Dom](https://uk.ukrainskidom.pl) - анкети зголошення потреби і пропозиції житла і волонтерської допомоги / ankiety zgłoszenia zapotrzebowania oraz propozycji mieszkań i wolontariatu #житло #mieszkanie #волонтерство #wolontariat
+- \[WWW\] [Український дім / Ukraiński Dom](https://uk.ukrainskidom.pl)
+  > анкети зголошення потреби і пропозиції житла і волонтерської допомоги / ankiety zgłoszenia zapotrzebowania oraz propozycji mieszkań i wolontariatu \
+  > #житло #mieszkanie #волонтерство #wolontariat
+- \[FB\] [Polskie Forum Migracyjne](https://www.facebook.com/PolskieForumMigracyjne/)
+  > психологічна та інтервенційна підтримка, контакти до інших груп підтримки у Facebook \
+  > #psycholog #kontant #психолог #підтримка #контакти #wsparcie
+- \[FB\] [Polski dom dla Ukrainy / Польський дім для України](https://www.facebook.com/groups/321642230008180/)
+  > [PL] Grupa mająca na celu połączenie potrzebujących schronienia Ukraińców z osobami, które mogą im udzielić pomocy, w postaci choćby czasowego zapewnienia kawałka dachu nad głową. \
+  > [UA] Група, котра має на меті поєднання осіб з України, котрі потребують допомоги, та тих, хто може її надати, у вигляді хоча б тимчасового прихистку.
