@@ -6,6 +6,12 @@
 
 # Polska / Польща
 
+## gov.pl
+
+- [INFORMACJE DLA OBYWATELI UKRAINY / ІНФОРМАЦІЯ ДЛЯ ГРОМАДЯН УКРАЇНИ](https://www.gov.pl/web/udsc/ukraina) \[WWW\]
+  > oficjalna urzędowa strona Polski dla pomocy ukraińcom \
+  > офіційна урядова сторінка Польщі для допомоги українцям
+
 ## Zbiórki i akcje pomocowe / Збірки і акції допомоги
 
 - \[FB\] [Fundacja Batorego](https://www.facebook.com/311766890555/posts/10166436647205556/?d=n) - lista wiarygodnych zbiórek
